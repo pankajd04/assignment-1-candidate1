@@ -53,4 +53,4 @@ Latest test result: **8 examples, 0 failures**.
 
 - Repository: `assignment-1-candidate1`
 - Branch: `main`
-- Commit: To be added after committing the final implementation.
+- Commit: `Implement checkpoint coordinator`
